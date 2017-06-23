@@ -1,0 +1,8 @@
+{
+  "name": "Heroku Test: Python",
+  "description": "A Heroku test code to check how Heroku works",
+  "image": "heroku/Python",
+  "repository": "https://github.com/mokshm/herokuTest",
+  "keywords": ["python"],
+  "addons": [ "heroku-postgresql" ]
+}
